@@ -2,7 +2,6 @@
 title: Buiding a chrome extension
 og_image: start-blog-gatsby-twitter.png
 ---
-# Building a chrome extension
 ## What are chrome extensions?
 Chrome extensions can be considered as small programs which add functionality to your chrome browser. <br/>
 They can help you achieve a variety of tasks, right from manipulating the DOM of your webpage, modifiying the content as per your choice, or providing some tools like screen recorders, all of these can be achieved with the help of chrome extensions. They are visible on the right of the address bar in chrome browser. <br/>
