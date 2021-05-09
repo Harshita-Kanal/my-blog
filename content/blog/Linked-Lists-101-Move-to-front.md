@@ -1,5 +1,5 @@
 ---
-title: Linked List 101: Move the first element of a linked list to the end
+title: Linked List 101-Move the first element of a linked list to the end
 og_image: start-blog-gatsby-twitter.png
 ---
 In this problem, given a linked list move the first element of the linked list to the end of the linked list.
